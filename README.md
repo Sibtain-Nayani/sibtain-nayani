@@ -37,8 +37,8 @@ I am an engineering undergraduate focused on building scalable full-stack applic
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibtain-nayani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibtain-nayani&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sibtain-nayani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sibtain-nayani&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 ---
