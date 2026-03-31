@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sibtain Nayani</h1>
-<h3 align="center">A passionate Data Science & Python enthusiast</h3>
+# Sibtain Nayani
+**AI & Machine Learning Undergraduate | Full-Stack Developer**
+
+I am an engineering undergraduate focused on building scalable full-stack applications and intelligent systems. My work centers on bridging the gap between complex machine learning models and clean, user-centric interfaces, with a strong emphasis on system architecture and automated pipelines. 
+
+### 🚀 Current Focus
+- **Engineering** a robust data anonymization platform (PII redaction engine) using Next.js, FastAPI, and SpaCy.
+- **Developing** flight control software, telemetry systems, and computer vision algorithms for autonomous drones.
+- **Architecting** dynamic middleware and RESTful APIs for automated data extraction and processing.
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I'm currently working on **ML and Data Analysis projects**
-- 🌱 I'm learning **Machine Learning, EDA, and AI**
-- 💬 Ask me about **Python, Jupyter Notebooks, Data Science**
-- 📫 Reach me at: **your@email.com**
+### 💻 Tech Stack
 
----
-
-### 🛠️ Tech Stack
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & AI Libraries**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & Environment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibtain-Nayani&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-Nayani&layout=compact&theme=tokyonight" />
-</p>
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sibtain-nayani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibtain-nayani&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibtainnayani-621--)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibtainnayani43@gmail.com)
